@@ -72,12 +72,12 @@ def aboutx():
 \rw==================================================================
 \rg         Author   \rw: \rrDark-Link
 \rg         Contact  \rw:
-\rg         E-Mail   \rw: \rrundercore.dl@gmail.com
-\rg         Facebook \rw: \rrhttps://facebook.com/udrcr.darklink
+\rg            E-Mail   \rw: \rrundercore.dl@gmail.com
+\rg            Facebook \rw: \rrhttps://facebook.com/udrcr.darklink
                      \rr(Dark-Link Undercore)
-\rg         Instagram\rw: \rr@dark_link
-\rg         Github   \rw: \rrhttps://github.com/Dark-Link
-\rg         Group    \rw: \rrLahadu Underground
+\rg            Instagram\rw: \rr@dark_link
+\rg            Github   \rw: \rrhttps://github.com/Dark-Link
+\rg            Group    \rw: \rrLahadu Underground
 \rw==================================================================
 
 \rg  Contact me if your experience in runing this program was error
